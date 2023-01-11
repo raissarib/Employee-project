@@ -1,0 +1,20 @@
+Nome do funcionário: Raissa
+Quantidade de dependentes:0
+Bônus:0.0
+
+Nome do funcionário: lucas
+Quantidade de dependentes:0
+Bônus:0.0
+
+Nome do funcionário: lucas
+Quantidade de dependentes:0
+Bônus:0.0
+
+Nome do funcionário: perene
+Quantidade de dependentes:2
+Bônus:160.0
+
+Nome do funcionário: lucas
+Quantidade de dependentes:2
+Bônus:160.0
+
